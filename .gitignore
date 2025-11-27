@@ -1,0 +1,22 @@
+# 1. Python Compiled files (junk created when running code)
+__pycache__/
+*.pyc
+
+# 2. Virtual Environments (if you use them)
+venv/
+env/
+.venv/
+
+# 3. System Files (Mac/Windows metadata)
+.DS_Store
+Thumbs.db
+
+# 4. Editor specific (VS Code, Pycharm, Vim)
+.vscode/
+.idea/
+*.swp
+
+# 5. SCRIPT OUTPUT (Crucial for your specific project)
+# You don't want to commit your actual photos or PDFs to Git!
+Documents/
+Images/
